@@ -10,6 +10,7 @@ export default function Document() {
         <meta name="description" content="Sample Order Project with NextJS by Cemre ACAR" />
       </Head>
       <body>
+        <script src="https://unpkg.com/flowbite@1.6.0/dist/flowbite.min.js" />
         <Main />
         <NextScript />
       </body>
