@@ -18,8 +18,9 @@ module.exports = {
         },
       },
       colors: {
-        primary: "#46cd6b",
-        secondary: "#179a5e",
+        first: "#d32a27",
+        second: "#333",
+        third: "#ffb713"
       },
       fontFamily: {
         raleway: ["Raleway", "sans-serif"],

@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Campaigns from '../components/features/Campaigns'
 import Header from '../components/layout/Header'
 
 export default function Home() {
@@ -12,6 +13,8 @@ export default function Home() {
       </Head>
 
       <Header />
+
+      <Campaigns />
     </>
   )
 }
